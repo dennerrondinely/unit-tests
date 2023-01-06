@@ -1144,6 +1144,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.19.0", "@babel/runtime@^7.20.7":
+  version "7.20.7"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@babel/runtime/-/runtime-7.20.7.tgz#fcb41a5a70550e04a7b708037c7c32f7f356d8fd"
+  integrity sha1-/LQaWnBVDgSntwgDfHwy9/NW2P0=
+  dependencies:
+    regenerator-runtime "^0.13.11"
+
 "@babel/template@^7.10.4", "@babel/template@^7.12.7", "@babel/template@^7.16.7", "@babel/template@^7.3.3":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.16.7.tgz#8d126c8701fde4d66b264b3eba3d96f07666d155"
@@ -2300,6 +2307,301 @@
     regenerator-runtime "^0.13.7"
     resolve-from "^5.0.0"
     store2 "^2.7.1"
+
+"@styled-icons/bootstrap@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/bootstrap/-/bootstrap-10.47.0.tgz#c3e363dfe87b732a5da818f320f90f5ab4961b84"
+  integrity sha1-w+Nj3+h7cypdqBjzIPkPWrSWG4Q=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-logos@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/boxicons-logos/-/boxicons-logos-10.47.0.tgz#8a21a61d202e3ae2dfdec24d80897c3262777841"
+  integrity sha1-iiGmHSAuOuLf3sJNgIl8MmJ3eEE=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-regular@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/boxicons-regular/-/boxicons-regular-10.47.0.tgz#6318dd8ba9bfbf143c3a32c9d1c72479d376bd3a"
+  integrity sha1-Yxjdi6m/vxQ8OjLJ0cckedN2vTo=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/boxicons-solid@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/boxicons-solid/-/boxicons-solid-10.47.0.tgz#1b84245f3cbb8837e9ff2a6bd3563276e49d8e21"
+  integrity sha1-G4QkXzy7iDfp/ypr01YyduSdjiE=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/crypto@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/crypto/-/crypto-10.47.0.tgz#056ff80eb342b6fa200736cb975b5d0988a3f47c"
+  integrity sha1-BW/4DrNCtvogBzbLl1tdCYij9Hw=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/entypo-social@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/entypo-social/-/entypo-social-10.46.0.tgz#6a6fc6aa102c03c43df0e87710eec8218c0ce42e"
+  integrity sha1-am/GqhAsA8Q98Oh3EO7IIYwM5C4=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/entypo@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/entypo/-/entypo-10.46.0.tgz#64f16e26fa9a559280cb990e1abe1fa38b5b370a"
+  integrity sha1-ZPFuJvqaVZKAy5kOGr4fo4tbNwo=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evaicons-outline@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/evaicons-outline/-/evaicons-outline-10.46.0.tgz#47f0af9926f9f99f998feeb723fd18c71f4b8161"
+  integrity sha1-R/CvmSb5+Z+Zj+63I/0Yxx9LgWE=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evaicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/evaicons-solid/-/evaicons-solid-10.46.0.tgz#37ca0af3d18f898bc1db081082f5893a24a39865"
+  integrity sha1-N8oK89GPiYvB2wgQgvWJOiSjmGU=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/evil@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/evil/-/evil-10.46.0.tgz#882980fe2cb28ec2d844998920ba9776e022e539"
+  integrity sha1-iCmA/iyyjsLYRJmJILqXduAi5Tk=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-brands@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/fa-brands/-/fa-brands-10.47.0.tgz#f21190720a614319ef52d39afe0f2518ae0bbd16"
+  integrity sha1-8hGQcgphQxnvUtOa/g8lGK4LvRY=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-regular@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/fa-regular/-/fa-regular-10.47.0.tgz#0c2e3196bec0706d2cb7fce5f7f49fdefc15e3b1"
+  integrity sha1-DC4xlr7AcG0st/zl9/Sf3vwV47E=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fa-solid@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/fa-solid/-/fa-solid-10.47.0.tgz#011ffe890054f10957e247a798214c304e2f95c3"
+  integrity sha1-AR/+iQBU8QlX4kenmCFMME4vlcM=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/feather@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/feather/-/feather-10.47.0.tgz#20e1bbc38e12a99fbda3889a8d1d025b3a8ce76f"
+  integrity sha1-IOG7w44SqZ+9o4iajR0CWzqM528=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fluentui-system-filled@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/fluentui-system-filled/-/fluentui-system-filled-10.47.0.tgz#82abb14956b867657722a2558d08ef9024879a2e"
+  integrity sha1-gquxSVa4Z2V3IqJVjQjvkCSHmi4=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/fluentui-system-regular@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/fluentui-system-regular/-/fluentui-system-regular-10.47.0.tgz#f82d96d22748b994212e751e89924526131f4ea8"
+  integrity sha1-+C2W0idIuZQhLnUeiZJFJhMfTqg=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/foundation@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/foundation/-/foundation-10.46.0.tgz#f68eaad4b404a88b7aaf9ab04e07d70cf5abcda9"
+  integrity sha1-9o6q1LQEqIt6r5qwTgfXDPWrzak=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/heroicons-outline@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/heroicons-outline/-/heroicons-outline-10.47.0.tgz#6b413931003a640faf98b82bedaf864b1a479143"
+  integrity sha1-a0E5MQA6ZA+vmLgr7a+GSxpHkUM=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/heroicons-solid@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/heroicons-solid/-/heroicons-solid-10.47.0.tgz#4457463fe15c8bf8c357bf22dd16d3e579a5e163"
+  integrity sha1-RFdGP+Fci/jDV78i3RbT5Xml4WM=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/icomoon@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/icomoon/-/icomoon-10.46.0.tgz#961e2c4ca8659e5061ffe6fa1a57c104ce3478d0"
+  integrity sha1-lh4sTKhlnlBh/+b6GlfBBM40eNA=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-outline@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/ionicons-outline/-/ionicons-outline-10.46.0.tgz#829a5d47c08503524030c901013cb03c97b1d589"
+  integrity sha1-gppdR8CFA1JAMMkBATywPJex1Yk=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-sharp@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/ionicons-sharp/-/ionicons-sharp-10.46.0.tgz#78b99fcac82cbfb87379de1f1e41ee42139caeb6"
+  integrity sha1-eLmfysgsv7hzed4fHkHuQhOcrrY=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/ionicons-solid@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/ionicons-solid/-/ionicons-solid-10.46.0.tgz#57909df67c7cdb710623fc9a58c20732f3520f81"
+  integrity sha1-V5Cd9nx823EGI/yaWMIHMvNSD4E=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-outlined@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/material-outlined/-/material-outlined-10.47.0.tgz#d799a14c1cbbd4d730d046d9f791f108e907fd34"
+  integrity sha1-15mhTBy71Ncw0EbZ95HxCOkH/TQ=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-rounded@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/material-rounded/-/material-rounded-10.47.0.tgz#c2a9e8277ba88949caffe08d42360d7aa45afaa8"
+  integrity sha1-wqnoJ3uoiUnK/+CNQjYNeqRa+qg=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-sharp@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/material-sharp/-/material-sharp-10.47.0.tgz#d019acd9acf49e81b81a10d0ccf06356d301ab7f"
+  integrity sha1-0Bms2az0noG4GhDQzPBjVtMBq38=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material-twotone@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/material-twotone/-/material-twotone-10.47.0.tgz#0308c1b26cc42c77ed3f4f82150666192dfee262"
+  integrity sha1-AwjBsmzELHftP0+CFQZmGS3+4mI=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/material@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/material/-/material-10.47.0.tgz#23c19f9659cd135ea44550b88393621bb81f81b4"
+  integrity sha1-I8GfllnNE16kRVC4g5NiG7gfgbQ=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/octicons@10.47.0":
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/octicons/-/octicons-10.47.0.tgz#a062f275730c1bf70df0b19fe41e9f0db9c24f5d"
+  integrity sha1-oGLydXMMG/cN8LGf5B6fDbnCT10=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/open-iconic@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/open-iconic/-/open-iconic-10.46.0.tgz#ddaa4ead799eae861ee21abea9d2b1484e2b6089"
+  integrity sha1-3apOrXmeroYe4hq+qdKxSE4rYIk=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-editor@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/remix-editor/-/remix-editor-10.46.0.tgz#81c0d3f174ff5fb1900a019acbeb4fc1f68318a1"
+  integrity sha1-gcDT8XT/X7GQCgGay+tPwfaDGKE=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-fill@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/remix-fill/-/remix-fill-10.46.0.tgz#4477b1927e99faec55747bd92102b85e979ac203"
+  integrity sha1-RHexkn6Z+uxVdHvZIQK4XpeawgM=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/remix-line@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/remix-line/-/remix-line-10.46.0.tgz#8c66a18f951895f3e082a60b5a6a4f43b3c7b998"
+  integrity sha1-jGahj5UYlfPggqYLWmpPQ7PHuZg=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/simple-icons@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/simple-icons/-/simple-icons-10.46.0.tgz#fbb8f73686dbb40e482356a5fdc23e895e2b8468"
+  integrity sha1-+7j3NobbtA5II1al/cI+iV4rhGg=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/styled-icon@10.7.0", "@styled-icons/styled-icon@^10.7.0":
+  version "10.7.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/styled-icon/-/styled-icon-10.7.0.tgz#d6960e719b8567c8d0d3a87c40fb6f5b4952a228"
+  integrity sha1-1pYOcZuFZ8jQ06h8QPtvW0lSoig=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+
+"@styled-icons/typicons@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/typicons/-/typicons-10.46.0.tgz#b72c381941fbe66d3a34dbf2979611d25579cb2e"
+  integrity sha1-tyw4GUH75m06NNvyl5YR0lV5yy4=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
+
+"@styled-icons/zondicons@10.46.0":
+  version "10.46.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/@styled-icons/zondicons/-/zondicons-10.46.0.tgz#bc0d11da7c6e7602d78218e1d55c40b61d061c02"
+  integrity sha1-vA0R2nxudgLXghjh1VxAth0GHAI=
+  dependencies:
+    "@babel/runtime" "^7.19.0"
+    "@styled-icons/styled-icon" "^10.7.0"
 
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   version "1.4.2"
@@ -12323,6 +12625,11 @@ regenerator-runtime@^0.11.0:
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
   integrity sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg==
 
+regenerator-runtime@^0.13.11:
+  version "0.13.11"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz#f6dca3e7ceec20590d07ada785636a90cdca17f9"
+  integrity sha1-9tyj587sIFkNB62nhWNqkM3KF/k=
+
 regenerator-runtime@^0.13.4, regenerator-runtime@^0.13.7:
   version "0.13.9"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz#8925742a98ffd90814988d7566ad30ca3b263b52"
@@ -13583,6 +13890,50 @@ styled-components@5.2.1:
     hoist-non-react-statics "^3.0.0"
     shallowequal "^1.1.0"
     supports-color "^5.5.0"
+
+styled-icons@^10.47.0:
+  version "10.47.0"
+  resolved "https://pkgs.dev.azure.com/ab-inbev/GHQ_B2B_Delta/_packaging/admin-portal-shared-services/npm/registry/styled-icons/-/styled-icons-10.47.0.tgz#79765d950db088d6cde52bdcb6bdb0f543823d11"
+  integrity sha1-eXZdlQ2wiNbN5Svctr2w9UOCPRE=
+  dependencies:
+    "@babel/runtime" "^7.20.7"
+    "@styled-icons/bootstrap" "10.47.0"
+    "@styled-icons/boxicons-logos" "10.47.0"
+    "@styled-icons/boxicons-regular" "10.47.0"
+    "@styled-icons/boxicons-solid" "10.47.0"
+    "@styled-icons/crypto" "10.47.0"
+    "@styled-icons/entypo" "10.46.0"
+    "@styled-icons/entypo-social" "10.46.0"
+    "@styled-icons/evaicons-outline" "10.46.0"
+    "@styled-icons/evaicons-solid" "10.46.0"
+    "@styled-icons/evil" "10.46.0"
+    "@styled-icons/fa-brands" "10.47.0"
+    "@styled-icons/fa-regular" "10.47.0"
+    "@styled-icons/fa-solid" "10.47.0"
+    "@styled-icons/feather" "10.47.0"
+    "@styled-icons/fluentui-system-filled" "10.47.0"
+    "@styled-icons/fluentui-system-regular" "10.47.0"
+    "@styled-icons/foundation" "10.46.0"
+    "@styled-icons/heroicons-outline" "10.47.0"
+    "@styled-icons/heroicons-solid" "10.47.0"
+    "@styled-icons/icomoon" "10.46.0"
+    "@styled-icons/ionicons-outline" "10.46.0"
+    "@styled-icons/ionicons-sharp" "10.46.0"
+    "@styled-icons/ionicons-solid" "10.46.0"
+    "@styled-icons/material" "10.47.0"
+    "@styled-icons/material-outlined" "10.47.0"
+    "@styled-icons/material-rounded" "10.47.0"
+    "@styled-icons/material-sharp" "10.47.0"
+    "@styled-icons/material-twotone" "10.47.0"
+    "@styled-icons/octicons" "10.47.0"
+    "@styled-icons/open-iconic" "10.46.0"
+    "@styled-icons/remix-editor" "10.46.0"
+    "@styled-icons/remix-fill" "10.46.0"
+    "@styled-icons/remix-line" "10.46.0"
+    "@styled-icons/simple-icons" "10.46.0"
+    "@styled-icons/styled-icon" "10.7.0"
+    "@styled-icons/typicons" "10.46.0"
+    "@styled-icons/zondicons" "10.46.0"
 
 styled-media-query@^2.1.2:
   version "2.1.2"
