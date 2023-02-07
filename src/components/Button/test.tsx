@@ -1,7 +1,7 @@
 import { screen } from '@testing-library/react';
 
 import Button from './index';
-import { render } from 'utils/tests/helpers';
+import { render } from 'utils/test-utils';
 
 describe('<Button />', () => {
   it('should render the medium size by default', () => {
